@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "10992fa9-1d12-249d-e4d1-d0ab9843cb74"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Precedents in Critical Practice",
+  "course_description": "This course provides students with the opportunity to develop a map of contemporary architectural practice and discourse. The seminar examines six themes in terms of their recent history: city and global economy, urban plan and map of operations, program and performance, drawing and scripting, image and surface, and utopia and projection. Students will study buildings and read relevant texts in order to place recent architectural projects in disciplinary and cultural context.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.210",
+  "learning_resource_types": [
+    "Presentation Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
